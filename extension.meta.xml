@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension id="asdc" status="deprecated" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+<extension id="asdc" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>Advanced Symphony Database Connector (ASDC)</name>
 	<description>Efficient database library</description>
-	<repo type="github">https://github.com/symphonycms/asdc</repo>
-	<url type="discuss">http://symphony-cms.com/discuss/thread/32783/</url>
+	<repo type="github">https://github.com/pointybeard/asdc</repo>
+	<url type="discuss">http://getsymphony.com/discuss/thread/32783/</url>
 	<types>
-		<type>Other</type>
+		<type>Database</type>
 	</types>
 	<authors>
 		<author>
@@ -14,7 +14,7 @@
 		</author>
 	</authors>
 	<releases>
-		<release version="1.5" date="2012-09-16" min="2.3" max="2.3.x">
+		<release version="1.5" date="2012-09-16" min="2.3" max="2.4.x">
 			- Updated to work with Symphony 2.3.x. Dropped support for lower versions. Please use v 1.4.
 		</release>
 		<release version="1.4" date="2010-07-22" min="2.0.6" max="2.2.x">
