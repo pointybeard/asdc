@@ -3,7 +3,7 @@
 - Version: 1.5
 - Author: Alistair Kearney (hi@alistairkearney.com)
 - Build Date: 19th September 2012
-- Requirements: Symphony 2.3 or above
+- Requirements: Symphony 2.4 or above
 
 A more efficient database library that can be used by developers as an alternative to the built in MySQL database connector. Note, this does not replace the existing driver used throughout Symphony, but is used in tandem to it.
 
